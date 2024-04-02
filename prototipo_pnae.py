@@ -5,7 +5,6 @@
 # Estudar o básico de POO
 # Saber onde cada função é invocada
 
-
 # Protótipo de um sistema desenvolvido para o PNAE- Fase 1
 
 # Classe comida para representar os alimentos
@@ -166,3 +165,4 @@ while True:
         break
     else:
         print("Não há opções para isto! Por favor, navegue utilizando o menu.")
+
